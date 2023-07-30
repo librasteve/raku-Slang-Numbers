@@ -1,17 +1,12 @@
-######################
-# OS generated files #
-######################
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-####################
-# Raku precompiled #
-####################
 .precomp
-lib/.precomp
-.idea
-*.iml
+.lib/precomp
+.swp
+.ipynb_checkpoints/*
+.log
+.p6.swp
+.pm6.swp
+.Dockerfile.swp
+.json.swp
+.yaml.swp
+.pem
